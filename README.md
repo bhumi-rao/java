@@ -16,3 +16,4 @@ I'm building this step-by-step as I learn, and updating it regularly.
 1. Printing array elements
 2. Calculating sum of array elements
 3. Finding out maximum and minimum number from array elements
+4. Linear search 
